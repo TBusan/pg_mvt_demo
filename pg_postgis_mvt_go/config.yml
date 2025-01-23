@@ -3,9 +3,9 @@ port: ":9080"
 # 数据库连接信息配置
 database:
   driver: "postgres"
-  host: "*.*.*.*"
-  port: "9999"
+  host: "134.175.179.170"
+  port: "5432"
   user: "postgres"
   dbname: "*"
-  password: "*"
+  password: "123456"
   sslmode: "disable"
